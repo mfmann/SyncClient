@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+exclude_filter=
+include_filter=src//**, src//AckMessageTest.java, src//CounterMessage.java, src//ExpectingMessage.java, src//ExpectingMessageTest.java, src//AckMessage.java, src//syncclient.java, src//syncclientTest.java, src//ServerCommandLine.java, src//ClientThread.java, src//ClientThreadTest.java
+instrumentation_enabled=false

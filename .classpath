@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="var" path="CLOVER_RUNTIME"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/Meghan/Documents/File-Sync/lib/args4j-2.0.21.jar"/>
+	<classpathentry kind="lib" path="/Users/Meghan/Documents/File-Sync/lib/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="/Users/Meghan/Documents/File-Sync/lib/filesync.jar" sourcepath="/Users/Meghan/Documents/File-Sync/lib/filesync.jar"/>
+	<classpathentry kind="lib" path="/Users/Meghan/Documents/File-Sync/lib/json_simple-1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/Users/Meghan/Downloads/mockito-1/separate-jars/com.springsource.org.hamcrest.core-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Meghan/Downloads/mockito-1/separate-jars/com.springsource.org.objenesis-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Meghan/Downloads/powermock-easymock-junit-1.6.2/cglib-nodep-2.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Meghan/Downloads/powermock-easymock-junit-1.6.2/easymock-3.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Meghan/Downloads/powermock-easymock-junit-1.6.2/javassist-3.19.0-GA.jar"/>
+	<classpathentry kind="lib" path="/Users/Meghan/Downloads/powermock-easymock-junit-1.6.2/objenesis-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Meghan/Downloads/mockito-all-1.10.5.jar"/>
+	<classpathentry kind="lib" path="/Users/Meghan/Downloads/powermock-easymock-junit-1.6.2/powermock-easymock-1.6.2-full.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
